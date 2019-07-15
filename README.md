@@ -1,6 +1,6 @@
 # scoring-leaders-by-nba-team
 
-
+<img src='cover.png'/>
 
 <b>Setup</b>
 
