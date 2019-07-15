@@ -1,0 +1,1925 @@
+{
+    "name": "most-points-by-franchise-in-pacific-div",
+    "children": [{
+            "name": "LAC",
+            "children": [{
+                    "name": "Randy Smith",
+                    "size": 12735,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                },
+                {
+                    "name": "Blake Griffin",
+                    "size": 10863,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                },
+                {
+                    "name": "Bob McAdoo",
+                    "size": 9434,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                },
+                {
+                    "name": "Elton Brand",
+                    "size": 9336,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                },
+                {
+                    "name": "Corey Maggette",
+                    "size": 8835,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                },
+                {
+                    "name": "Chris Paul",
+                    "size": 7674,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                },
+                {
+                    "name": "Danny Manning",
+                    "size": 7120,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+
+                },
+                {
+                    "name": "DeAndre Jordan",
+                    "size": 7078,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                },
+                {
+                    "name": "Loy Vaught",
+                    "size": 6614,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                },
+                {
+                    "name": "Ken Norman",
+                    "size": 6432,
+                    "team": "Los Angeles Clippers",
+                    "color": "#C91C23"
+                }
+            ]
+        },
+        {
+            "name": "LAL",
+            "children": [{
+                    "name": "Kobe Bryant",
+                    "size": 33643,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "Jerry West",
+                    "size": 25192,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "Kareem Abdul-Jabbar",
+                    "size": 24176,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "Elgin Baylor",
+                    "size": 23149,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "Magic Johnson",
+                    "size": 17707,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "James Worthy",
+                    "size": 16320,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "Shaquille O'Neal",
+                    "size": 13895,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "Gail Goodrich",
+                    "size": 13044,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "Byron Scott",
+                    "size": 12780,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                },
+                {
+                    "name": "Jamaal Wilkes",
+                    "size": 10601,
+                    "team": "Los Angeles Lakers",
+                    "color": "#FDB929"
+                }
+            ]
+        },
+        {
+            "name": "GSW",
+            "children": [{
+                    "name": "Wilt Chamberlain",
+                    "size": 17783,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Rick Barry",
+                    "size": 16447,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Stephen Curry",
+                    "size": 16315,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Paul Arizin",
+                    "size": 16266,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Chris Mullin",
+                    "size": 16235,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Nate Thurmond",
+                    "size": 13191,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Jeff Mullins",
+                    "size": 12547,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Klay Thompson",
+                    "size": 11995,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Purvis Short",
+                    "size": 11894,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                },
+                {
+                    "name": "Neil Johnston",
+                    "size": 10023,
+                    "team": "Golden State Warriors",
+                    "color": "#0168B1"
+                }
+            ]
+        },
+        {
+            "name": "SAC",
+            "children": [{
+                    "name": "Oscar Robertson",
+                    "size": 22009,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "Jack Twyman",
+                    "size": 15840,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "Mitch Richmond",
+                    "size": 12070,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "Tiny Archibald",
+                    "size": 10894,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "Sam Lacey",
+                    "size": 9895,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "DeMarcus Cousins",
+                    "size": 9894,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "Peja Stojakovic",
+                    "size": 9498,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "Jerry Lucas",
+                    "size": 9107,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "Eddie Johnson",
+                    "size": 9027,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                },
+                {
+                    "name": "Scott Wedman",
+                    "size": 9002,
+                    "team": "Sacramento Kings",
+                    "color": "#57297E"
+                }
+            ]
+        },
+        {
+            "name": "PHO",
+            "children": [{
+                    "name": "Walter Davis",
+                    "size": 15666,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Alvan Addams",
+                    "size": 13910,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Kevin Johnson",
+                    "size": 12747,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Shawn Marion",
+                    "size": 12134,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Dick Van Arsdale",
+                    "size": 12060,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Amar'e Stoudemire",
+                    "size": 11035,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Steve Nash",
+                    "size": 10712,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Paul Westphal",
+                    "size": 9564,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Larry Nance",
+                    "size": 8430,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                },
+                {
+                    "name": "Dan Majerle",
+                    "size": 8034,
+                    "team": "Phoenix Suns",
+                    "color": "#DF5C1B"
+                }
+            ]
+        },
+        {
+            "name": "HOU",
+            "children": [{
+                    "name": "Hakeem Olajuwon",
+                    "size": 26511,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "Calvin Murphy",
+                    "size": 17949,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "James Harden",
+                    "size": 15832,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "Rudy Tomjanovich",
+                    "size": 13383,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "Elvin Hayes",
+                    "size": 11762,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "Moses Malone",
+                    "size": 11119,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "Yao Ming",
+                    "size": 9247,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "Robert Reid",
+                    "size": 8823,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "Mike Newlin",
+                    "size": 8480,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                },
+                {
+                    "name": "Otis Thorpe",
+                    "size": 8177,
+                    "team": "Houston Rockets",
+                    "color": "#C9093D"
+                }
+            ]
+        },
+        {
+            "name": "SAS",
+            "children": [{
+                    "name": "Tim Duncan",
+                    "size": 26496,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "George Gervin",
+                    "size": 23602,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "David Robinson",
+                    "size": 20790,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "Tony Parker",
+                    "size": 18943,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "Manu Ginobili",
+                    "size": 14043,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "James Silas",
+                    "size": 10290,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "Mike Mitchell",
+                    "size": 9799,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "Sean Elliott",
+                    "size": 9659,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "Larry Kenon",
+                    "size": 8248,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                },
+                {
+                    "name": "Kawhi Leonard",
+                    "size": 6654,
+                    "team": "San Antonio Spurs",
+                    "color": "#C6CFD5"
+                }
+            ]
+        },
+        {
+            "name": "DAL",
+            "children": [{
+                    "name": "Dirk Nowitzki",
+                    "size": 31560,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Rolando Blackman",
+                    "size": 16643,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Mark Aguirre",
+                    "size": 13930,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Derek Harper",
+                    "size": 12597,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Michael Finley",
+                    "size": 12389,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Jason Terry",
+                    "size": 9953,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Brad Davis",
+                    "size": 7623,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Sam Perkins",
+                    "size": 6766,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Josh Howard",
+                    "size": 6614,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                },
+                {
+                    "name": "Jay Vincent",
+                    "size": 6464,
+                    "team": "Dallas Mavericks",
+                    "color": "#1061AC"
+                }
+            ]
+        },
+        {
+            "name": "MEM",
+            "children": [{
+                    "name": "Mike Conley",
+                    "size": 11733,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "Marc Gasol",
+                    "size": 11684,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "Zach Randolph",
+                    "size": 9261,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "Pau Gasol",
+                    "size": 8966,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "Rudy Gay",
+                    "size": 8562,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "Shareef Abdur-Rahim",
+                    "size": 7801,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "Mike Miller",
+                    "size": 5982,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "Bryant Reeves",
+                    "size": 4945,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "O.J. Mayo",
+                    "size": 4584,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                },
+                {
+                    "name": "Shane Battier",
+                    "size": 4275,
+                    "team": "Memphis Grizzlies",
+                    "color": "#B9D1EA"
+                }
+            ]
+        },
+        {
+            "name": "NOP",
+            "children": [{
+                    "name": "Anthony Davis",
+                    "size": 11059,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "David West",
+                    "size": 8690,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "Chris Paul",
+                    "size": 7936,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "Jrue Holiday",
+                    "size": 6154,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "Ryan Anderson",
+                    "size": 3702,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "Eric Gordon",
+                    "size": 3390,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "P.J. Brown",
+                    "size": 3231,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "Peja Stojakovic",
+                    "size": 3135,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "Tyreke Evans",
+                    "size": 2982,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                },
+                {
+                    "name": "Baron Davis",
+                    "size": 2728,
+                    "team": "New Orleans Pelicans",
+                    "color": "#00265B"
+                }
+            ]
+        },
+        {
+            "name": "OKC",
+            "children": [{
+                    "name": "Russell Westbrook",
+                    "size": 18859,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Gary Payton",
+                    "size": 18207,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Kevin Durant",
+                    "size": 17566,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Fred Brown",
+                    "size": 14018,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Jack Sikma",
+                    "size": 12034,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Rashard Lewis",
+                    "size": 10251,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Shawn Kemp",
+                    "size": 10148,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Gus Williams",
+                    "size": 9676,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Dale Ellis",
+                    "size": 9405,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                },
+                {
+                    "name": "Xavier McDaniel",
+                    "size": 8438,
+                    "team": "Oklahoma City Thunder",
+                    "color": "#007AC3"
+                }
+            ]
+        },
+        {
+            "name": "MIN",
+            "children": [{
+                    "name": "Kevin Garnett",
+                    "size": 19201,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Andrew Wiggins",
+                    "size": 7768,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Karl-Anthony Towns",
+                    "size": 7187,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Sam Mitchell",
+                    "size": 7161,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Kevin Love",
+                    "size": 6989,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Wally Szczerbiak",
+                    "size": 6777,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Doug West",
+                    "size": 6216,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Tony Campbell",
+                    "size": 4888,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Christian Laettner",
+                    "size": 4759,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                },
+                {
+                    "name": "Isaiah Rider",
+                    "size": 4315,
+                    "team": "Minnesota Timberwolves",
+                    "color": "#041D3E"
+                }
+            ]
+        },
+        {
+            "name": "UTA",
+            "children": [{
+                    "name": "Karl Malone",
+                    "size": 36374,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "John Stockton",
+                    "size": 19711,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "Adrian Dantley",
+                    "size": 13635,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "Darrell Griffith",
+                    "size": 12391,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "Thurl Bailey",
+                    "size": 9897,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "Andrei Kirilenko",
+                    "size": 8411,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "Pete Maravich",
+                    "size": 8324,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "Gordon Hayward",
+                    "size": 8077,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "Deron Williams",
+                    "size": 7576,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                },
+                {
+                    "name": "Mehmet Okur",
+                    "size": 7255,
+                    "team": "Utah Jazz",
+                    "color": "#FFA601"
+                }
+            ]
+        },
+        {
+            "name": "DEN",
+            "children": [{
+                    "name": "Alex English",
+                    "size": 21645,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "Dan Issel",
+                    "size": 16589,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "Carmelo Anthony",
+                    "size": 13970,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "David Thompson",
+                    "size": 11992,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "Ralph Simpson",
+                    "size": 10130,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "Byron Beck",
+                    "size": 8603,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "Fat Lever",
+                    "size": 8081,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "Mahmoud Abdul-Rauf",
+                    "size": 7029,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "Nene Hilario",
+                    "size": 6868,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                },
+                {
+                    "name": "Kiki Vandeweghe",
+                    "size": 6829,
+                    "team": "Denver Nuggets",
+                    "color": "#FDB827"
+                }
+            ]
+        },
+        {
+            "name": "POR",
+            "children": [{
+                    "name": "Clyde Drexler",
+                    "size": 18040,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "Damian Lillard",
+                    "size": 12909,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "LaMarcus Aldridge",
+                    "size": 12562,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "Terry Porter",
+                    "size": 11330,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "Clifford Robinson",
+                    "size": 10405,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "Jerome Kersey",
+                    "size": 10067,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "Jim Paxson",
+                    "size": 10003,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "Geoff Petrie",
+                    "size": 9732,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "Mychal Thompson",
+                    "size": 9215,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                },
+                {
+                    "name": "Rasheed Wallace",
+                    "size": 9119,
+                    "team": "Portland Trailblazers",
+                    "color": "#D00328"
+                }
+            ]
+        },
+        {
+            "name": "PHI",
+            "children": [{
+                    "name": "Hal Greer",
+                    "size": 21586,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Allen Iverson",
+                    "size": 19931,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Dolph Schayes",
+                    "size": 18438,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Julius Erving",
+                    "size": 18364,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Charles Barkley",
+                    "size": 14184,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Billy Cunningham",
+                    "size": 13626,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Red Kerr",
+                    "size": 11699,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Maurice Cheeks",
+                    "size": 10429,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Andre Iguodala",
+                    "size": 9422,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                },
+                {
+                    "name": "Chet Walker",
+                    "size": 3994,
+                    "team": "Philadelphia 76ers",
+                    "color": "#006BB8"
+                }
+            ]
+        },
+        {
+            "name": "TOR",
+            "children": [{
+                    "name": "DeMar DeRozan",
+                    "size": 13296,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Chris Bosh",
+                    "size": 10275,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Vince Carter",
+                    "size": 9420,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Kyle Lowry",
+                    "size": 8623,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Andrea Bargnani",
+                    "size": 6581,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Morris Peterson",
+                    "size": 6498,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Jose Calderon",
+                    "size": 5235,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Jonas Valanciunas",
+                    "size": 5524,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Doug Christie",
+                    "size": 4448,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                },
+                {
+                    "name": "Antonio Davis",
+                    "size": 3994,
+                    "team": "Toronto Raptors",
+                    "color": "#713AB8"
+                }
+            ]
+        },
+        {
+            "name": "BOS",
+            "children": [{
+                    "name": "John Havlicek",
+                    "size": 26395,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Paul Pierce",
+                    "size": 24021,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Larry Bird",
+                    "size": 21791,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Robert Parish",
+                    "size": 18245,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Kevin McHale",
+                    "size": 17335,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Bob Cousy",
+                    "size": 16955,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Sam Jones",
+                    "size": 15411,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Bill Russell",
+                    "size": 14522,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Dave Cowens",
+                    "size": 13192,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                },
+                {
+                    "name": "Jo Jo White",
+                    "size": 13188,
+                    "team": "Boston Celtics",
+                    "color": "#008853"
+                }
+            ]
+        },
+        {
+            "name": "BKN",
+            "children": [{
+                    "name": "Brook Lopez",
+                    "size": 10444,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Buck Williams",
+                    "size": 10440,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Vince Carter",
+                    "size": 8834,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Richard Jefferson",
+                    "size": 8507,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Jason Kidd",
+                    "size": 7373,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "John Williamson",
+                    "size": 7202,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Julius Erving",
+                    "size": 7104,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Kerry Kittles",
+                    "size": 7096,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Derrick Coleman",
+                    "size": 6930,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                },
+                {
+                    "name": "Chris Morris",
+                    "size": 6762,
+                    "team": "Brooklyn Nets",
+                    "color": "#000000"
+                }
+            ]
+        },
+        {
+            "name": "NYK",
+            "children": [{
+                    "name": "Patrick Ewing",
+                    "size": 23665,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Walt Frazier",
+                    "size": 14617,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Willis Reed",
+                    "size": 12183,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Allan Houston",
+                    "size": 11165,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Carl Braun",
+                    "size": 10449,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Richie Guerin",
+                    "size": 10392,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Carmelo Anthony",
+                    "size": 10186,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Earl Monroe",
+                    "size": 9679,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Dick Barnett",
+                    "size": 9442,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                },
+                {
+                    "name": "Bill Bradley",
+                    "size": 9217,
+                    "team": "New York Knicks",
+                    "color": "#F58522"
+                }
+            ]
+        },
+        {
+            "name": "CHI",
+            "children": [{
+                    "name": "Michael Jordan",
+                    "size": 29277,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Scottie Pippen",
+                    "size": 15123,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Bob Love",
+                    "size": 12623,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Luol Deng",
+                    "size": 10286,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Jerry Sloan",
+                    "size": 10233,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Chet Walker",
+                    "size": 9788,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Artis Gilmore",
+                    "size": 9288,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Kirk Hinrich",
+                    "size": 8536,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Reggie Theus",
+                    "size": 8279,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                },
+                {
+                    "name": "Derrick Rose",
+                    "size": 8001,
+                    "team": "Chicago Bulls",
+                    "color": "#BC022B"
+                }
+            ]
+        },
+        {
+            "name": "CLE",
+            "children": [{
+                    "name": "Lebron James",
+                    "size": 23119,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Zydrunas Ilgauskas",
+                    "size": 10616,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Brad Daugherty",
+                    "size": 10389,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Austin Carr",
+                    "size": 10265,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Hot Rod Williams",
+                    "size": 8504,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Mark Price",
+                    "size": 9543,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Bingo Smith",
+                    "size": 9513,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Kyrie Irving",
+                    "size": 8232,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Larry Nance",
+                    "size": 7257,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                },
+                {
+                    "name": "Campy Russell",
+                    "size": 6588,
+                    "team": "Cleveland Cavaliers",
+                    "color": "#860038"
+                }
+            ]
+        },
+        {
+            "name": "DET",
+            "children": [{
+                    "name": "Isiah Thomas",
+                    "size": 18822,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "Joe Dumars",
+                    "size": 16401,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "Bob Lanier",
+                    "size": 15488,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "Dave Bing",
+                    "size": 15235,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "Bill Laimbeer",
+                    "size": 12665,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "Richard 'Rip' Hamilton",
+                    "size": 11582,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "Vinnie Johnson",
+                    "size": 10146,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "Tayshaun Prince",
+                    "size": 10006,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "Grant Hill",
+                    "size": 9393,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                },
+                {
+                    "name": "John Long",
+                    "size": 9023,
+                    "team": "Detroit Pistons",
+                    "color": "#ED174C"
+                }
+            ]
+        },
+        {
+            "name": "IND",
+            "children": [{
+                    "name": "Reggie Miller",
+                    "size": 25279,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "Rik Smits",
+                    "size": 12871,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "Billy Knight",
+                    "size": 10780,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "Roger Brown",
+                    "size": 10058,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "Jermaine O'Neal",
+                    "size": 9580,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "Danny Granger",
+                    "size": 9571,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "George McGinnis",
+                    "size": 9545,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "Vern Fleming",
+                    "size": 9535,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "Mel Daniels",
+                    "size": 9314,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                },
+                {
+                    "name": "Freddie Lewis",
+                    "size": 9257,
+                    "team": "Indiana Pacers",
+                    "color": "#FDBC2D"
+                }
+            ]
+        },
+        {
+            "name": "MIL",
+            "children": [{
+                    "name": "Kareem Abdul-Jabbar",
+                    "size": 14211,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Glenn Robinson",
+                    "size": 12010,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Sidney Moncrief",
+                    "size": 11594,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Michael Redd",
+                    "size": 11554,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Bob Dandridge",
+                    "size": 11478,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Marques Johnson",
+                    "size": 10980,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Junior Bridgeman",
+                    "size": 9892,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Brian Winters",
+                    "size": 9743,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Ray Allen",
+                    "size": 9681,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                },
+                {
+                    "name": "Terry Cummings",
+                    "size": 9290,
+                    "team": "Milwaukee Bucks",
+                    "color": "#00471C"
+                }
+            ]
+        },
+        {
+            "name": "ORL",
+            "children": [{
+                    "name": "Dwight Howard",
+                    "size": 11435,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Nick Anderson",
+                    "size": 10650,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Tracy McGrady",
+                    "size": 8298,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Jameer Nelson",
+                    "size": 8184,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Nikola Vučević",
+                    "size": 8128,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Shaquille O'Neal",
+                    "size": 8019,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Hedo Türkoglu",
+                    "size": 7216,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Anfernee 'Penny' Hardaway",
+                    "size": 7018,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Dennis Scott",
+                    "size": 6603,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                },
+                {
+                    "name": "Darrell Armstrong",
+                    "size": 5898,
+                    "team": "Orlando Magic",
+                    "color": "#0075BD"
+                }
+            ]
+        },
+        {
+            "name": "CHA",
+            "children": [{
+                    "name": "Kemba Walker",
+                    "size": 12009,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "Dell Curry",
+                    "size": 9839,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "Gerald Wallace",
+                    "size": 7437,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "Larry Johnson",
+                    "size": 7405,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "Glen Rice",
+                    "size": 5651,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "Muggsy Bogues",
+                    "size": 5531,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "Raymond Felton",
+                    "size": 5311,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "David Wesley",
+                    "size": 5241,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "Gerald Henderson",
+                    "size": 4701,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                },
+                {
+                    "name": "Emeka Okafor",
+                    "size": 4630,
+                    "team": "Charlotte Hornets",
+                    "color": "#1D8CAB"
+                }
+            ]
+        },
+        {
+            "name": "MIA",
+            "children": [{
+                    "name": "Dwyane Wade",
+                    "size": 21556,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "Alonzo Mourning",
+                    "size": 9459,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "Glen Rice",
+                    "size": 9248,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "LeBron James",
+                    "size": 7919,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "Chris Bosh",
+                    "size": 6914,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "Rony Seikaly",
+                    "size": 6742,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "Udonis Haslem",
+                    "size": 6511,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "Tim Hardaway",
+                    "size": 6335,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "Eddie Jones",
+                    "size": 6194,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                },
+                {
+                    "name": "Grant Long",
+                    "size": 5473,
+                    "team": "Miami Heat",
+                    "color": "#9A002A"
+                }
+            ]
+        },
+        {
+            "name": "WAS",
+            "children": [{
+                    "name": "Elvin Hayes",
+                    "size": 15551,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "Jeff Malone",
+                    "size": 11083,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "John Wall",
+                    "size": 10879,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "Wes Unseld",
+                    "size": 10624,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "Kevin Loughery",
+                    "size": 9833,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "Gus Johnson",
+                    "size": 9781,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "Phil Chenier",
+                    "size": 9778,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "Bradley Beal",
+                    "size": 9684,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "Walt Bellamy",
+                    "size": 9020,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                },
+                {
+                    "name": "Gilbert Arenas",
+                    "size": 8930,
+                    "team": "Washington Wizards",
+                    "color": "#E41134"
+                }
+            ]
+        },
+        {
+            "name": "ATL",
+            "children": [{
+                    "name": "Dominique Wilkins",
+                    "size": 23292,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "Bob Pettit",
+                    "size": 20880,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "Lou Hudson",
+                    "size": 16049,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "Cliff Hagan",
+                    "size": 13447,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "John Drew",
+                    "size": 12621,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "Joe Johnson",
+                    "size": 10606,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "Kevin Willis",
+                    "size": 10582,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "Josh Smith",
+                    "size": 10371,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "Eddie Johnson",
+                    "size": 9631,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                },
+                {
+                    "name": "Zelmo Beaty",
+                    "size": 8727,
+                    "team": "Atlanta Hawks",
+                    "color": "#E03A3E"
+                }
+            ]
+        }
+    ]
+}
